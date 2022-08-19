@@ -19,13 +19,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f377cb9-95d6-41c9-8ee2-74fec9dd61f3" name="Default Changelist" comment="" />
+    <list default="true" id="8f377cb9-95d6-41c9-8ee2-74fec9dd61f3" name="Default Changelist" comment="发光字体">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2Da99rWvGpV2kFlqq0UMvQtLsGs" />
@@ -55,8 +58,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660926179890</updated>
-      <workItem from="1660926182331" duration="2901000" />
+      <workItem from="1660926182331" duration="3940000" />
     </task>
+    <task id="LOCAL-00001" summary="发光字体">
+      <created>1660929129028</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660929129028</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,18 +126,22 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="发光字体" />
+    <option name="LAST_COMMIT_MESSAGE" value="发光字体" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="912" y="257" key="FileChooserDialogImpl" timestamp="1660929089108">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="912" y="257" key="FileChooserDialogImpl/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1660929089108" />
-    <state x="633" y="147" key="SettingsEditor" timestamp="1660929102990">
+    <state x="633" y="147" key="SettingsEditor" timestamp="1660930149260">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="633" y="147" key="SettingsEditor/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1660929102990" />
-    <state x="734" y="484" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1660926188329">
+    <state x="633" y="147" key="SettingsEditor/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1660930149260" />
+    <state x="734" y="484" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1660929143345">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="734" y="484" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1660926188329" />
+    <state x="734" y="484" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1660929143345" />
   </component>
 </project>
