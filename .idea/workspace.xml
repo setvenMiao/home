@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8f377cb9-95d6-41c9-8ee2-74fec9dd61f3" name="Default Changelist" comment="发光字体">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +59,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660926179890</updated>
-      <workItem from="1660926182331" duration="3940000" />
+      <workItem from="1660926182331" duration="4082000" />
+      <workItem from="1661089924183" duration="908000" />
     </task>
     <task id="LOCAL-00001" summary="发光字体">
       <created>1660929129028</created>
@@ -67,7 +69,21 @@
       <option name="project" value="LOCAL" />
       <updated>1660929129028</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="发光字体">
+      <created>1660930158665</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1660930158665</updated>
+    </task>
+    <task id="LOCAL-00003" summary="发光字体">
+      <created>1660930184466</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1660930184466</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +141,7 @@
         <entry key="1" value="TOOL_WINDOW" />
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="发光字体" />
@@ -139,9 +156,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="633" y="147" key="SettingsEditor/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1660930149260" />
-    <state x="734" y="484" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1660929143345">
+    <state x="734" y="484" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1660930195399">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="734" y="484" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1660929143345" />
+    <state x="734" y="484" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1660930195399" />
   </component>
 </project>
